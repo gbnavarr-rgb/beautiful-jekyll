@@ -8,18 +8,19 @@
 # Name of website
 title: Genesis Website
 
-
+# Your name to show in the footer
+author: Genesis Navarrete 
 
 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Genesis.Navarrete"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://genesis.navarrete.com"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
