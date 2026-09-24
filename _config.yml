@@ -13,16 +13,16 @@ description: A virtual proof that I'm awesome
 
 #Personalize the colors on the website 
 
-navbar-col: "#2E4034"
-navbar-text-col: "#F0F5EE"
-navbar-border-col: "#1C2A21"
-page-col: "#F7FAF5"
-text-col: "#2A2A2A"
-link-col: "#3F7D58"
-hover-col: "#2C5940"
-footer-col: "#2E4034"
-footer-text-col: "#CFE0D3"
-footer-link-col: "#A3D9B1"
+navbar-col: "#0B3D2E"
+navbar-text-col: "#E8F5EE"
+navbar-border-col: "#062A20"
+page-col: "#F4FBF7"
+text-col: "#1A2E26"
+link-col: "#1DB954"
+hover-col: "#17963F"
+footer-col: "#0B3D2E"
+footer-text-col: "#B7D9C9"
+footer-link-col: "#1DB954"
 
 # --- List of links in the navigation bar --- #
 
